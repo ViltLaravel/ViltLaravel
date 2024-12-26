@@ -1,18 +1,18 @@
 [![MasterHead](https://i.pinimg.com/1200x/99/49/1a/99491a72b7fc7f54507a35b25a32b2af.jpg)](https://nicole-amoguis-portfolio.vercel.app/)
 <h1 align="center">Hi 👋, I'm Nicole Amoguis</h1>
 <h3 align="center">A passionate Software Engineer from Philippines</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="nicoleamoguis" /> </p>
 
-- 🔭 I’m currently working on **Freelancing Web App**
+- 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Fullstack Development**
 
 - 💬 Ask me about **Web Development, VILT, NEXT.Js, React**
 
-- 📫 How to reach me **pamelanicoleamoguis13@gmail.com**
+- 📫 How to reach me **nicoleamoguis15@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
