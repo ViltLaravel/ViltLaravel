@@ -1,9 +1,9 @@
 <a href="https://nicole-amoguis-portfolio.vercel.app/" style="background-color: red; width: 100%; display: flex; justify-items: center; justify-content: center;">
-  <img src="https://i.pinimg.com/736x/7e/05/8d/7e058d01d8ee1303f1eeb7d92a7b3c0c.jpg" style="width: 100%" alt="Nicole Amoguis Portfolio">
+  <img src="https://i.pinimg.com/736x/b3/ba/35/b3ba35122f1b364eb13131343c94dc67.jpg" style="width: 100%" alt="Nicole Amoguis Portfolio">
 </a>
 <h1 align="center">Hi 👋, I'm Nicole Amoguis</h1>
 <h3 align="center">A Professional Software Engineer</h3>
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-left: 10px">
 
 - 🔭 I’m currently working as a **Freelancer**
 
