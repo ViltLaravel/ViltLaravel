@@ -4,13 +4,9 @@
 <h1 align="center">Hi 👋, I'm Nicole Amoguis</h1>
 <h3 align="center">A Professional Software Engineer</h3>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-left: 10px">
-<br/>
 - 💬 Ask me about **Mobile and Web Development**
-<br/>
 - 📫 How to reach me **nicoleamoguis15@gmail.com**
-<br/>
 - ⚡ Fun fact **I am Funny**
-<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/coolni_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
