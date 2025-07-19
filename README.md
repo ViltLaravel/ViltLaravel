@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nicole Amoguis</h1>
 <h3 align="center">A Professional Software Engineer</h3>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-left: 10px">
-<p>💬 Ask me about **Mobile and Web Development</p>
+<p>💬 Ask me about <bold>Mobile and Web Development</bold></p>
 - 📫 How to reach me **nicoleamoguis15@gmail.com**
 - ⚡ Fun fact **I am Funny**
 <h3 align="left">Connect with me:</h3>
