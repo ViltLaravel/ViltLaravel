@@ -46,7 +46,7 @@ justify-content: center;
     </p>
     <p>
       🔗 Portfolio:
-      <a href="https://my-weeybsayt.vercel.app/" target="blank">https://my-weeybsayt.vercel.app/</a>
+      <a href="https://my-weeybsayt.vercel.app/" target="_blank">https://my-weeybsayt.vercel.app/</a>
     </p>
   </div>
 </div>
