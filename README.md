@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nicole Amoguis</h1>
-<h3 align="center">A Professional Software Engineer</h3>
+<h3 align="center">A Front-End Developer | NextJs Developer | UI Designer</h3>
 
 <p align="center">
   <img 
